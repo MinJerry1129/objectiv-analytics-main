@@ -14,7 +14,7 @@
 
 * **Build BI dashboards for your teams in minutes** - Take pre-built analytics models (or build your own) and turn them into production-ready SQL with one command.
 * **Explore and model with zero grunt work** - Work directly on super-structured  raw data that’s designed for modeling. No cleaning or transformations required.
-* **Set up error-free tracking with strict validation tools** - Get helpful tooling to test, validate and debug your tracking setup at multiple stages. No more surprises downstream.
+* **Set up error-free sdfsdfsdfdstracking with strict validation tools** - Get helpful tooling to test, validate and debug your tracking setup at multiple stages. No more surprises downstream.
 
 
 ---
